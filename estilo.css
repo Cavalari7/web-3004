@@ -1,14 +1,14 @@
 #container{
     display: flex;
     justify-content: space-around;
-    margin: top 30px;
+    margin: 30px;
     padding: 5%;
-    background-color: rgb(31, 110, 7);
+    background-color: fuchsia;
 }
 .box{
     width: 300px;
-    background-color: chocolate;
-    color: rgb(214, 111, 188);
+    background-color: darksalmon;
+    color: deeppink;
     padding: 15%;
     border-radius: 10px;
     text-align: center;
