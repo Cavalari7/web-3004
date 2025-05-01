@@ -1,11 +1,11 @@
-#container{
+#container{ /*id: só pode ser usado 1x na página*/
     display: flex;
     justify-content: space-around;
     margin: 30px;
     padding: 5%;
     background-color: rgb(49, 160, 45);
 }
-.caixa{
+.caixa{ /*class pode ser usado várias vezes na página*/
     width: 300px;
     background-color: darksalmon;
     color: rgb(90, 20, 255);
@@ -14,10 +14,9 @@
     text-align: center;
 
 }
-img{
+img{ /*tag: é o controle da tag do html
     max-width: 55%;
     max-height: 55%;
     width: auto;
     height: auto;
 }
-
